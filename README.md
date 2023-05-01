@@ -9,13 +9,17 @@ in fișiere.
 Aplicația gestionează:
 
 -studenți: studentID, nume , grup
+
 -problemă laborator: număr laborator_număr problemă , descriere , deadline
 
 Creați o aplicație care permite:
 
 -gestiunea listei de studenți și probleme de laborator.
+
 -adaugă, șterge, modifică, lista de studenți, listă de probleme
+
 -căutare student, căutare problemă
+
 -Asignare laborator/Notare laborator
 
 Creare statistici:
