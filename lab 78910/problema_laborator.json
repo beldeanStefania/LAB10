@@ -1,0 +1,14 @@
+{
+  "2": {
+    "py/object": "domeniu.problema.Problema",
+    "_Entitate__idEntitate": "2",
+    "_Problema__descriere": "2",
+    "_Problema__deadline": "2"
+  },
+  "99": {
+    "py/object": "domeniu.problema.Problema",
+    "_Entitate__idEntitate": "99",
+    "_Problema__descriere": "99",
+    "_Problema__deadline": "99"
+  }
+}
